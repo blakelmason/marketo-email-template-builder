@@ -26,7 +26,9 @@
     "@babel/preset-react": "^7.9.4",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
     "html-loader": "^1.1.0",
+    "html-to-react": "^1.4.3",
     "html-webpack-plugin": "^4.3.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
@@ -37,12 +39,14 @@
   },
   "dependencies": {
     "classnames": "^2.2.6",
+    "gulp": "^4.0.2",
     "handlebars": "^4.7.6",
     "lodash": "^4.17.15",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-html-parser": "^2.0.2",
     "sass-extract": "^2.1.0"
   }
 }

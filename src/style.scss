@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+  margin: 0 auto !important;
+  padding: 0 !important;
+  height: 100% !important;
+  width: 100% !important;
+}
+
+* {
+  -ms-text-size-adjust: 100%;
+}
+
+table,
+td {
+  mso-table-lspace: 0pt !important;
+  mso-table-rspace: 0pt !important;
+  line-height: 1;
+}
+
+img {
+  -ms-interpolation-mode: bicubic;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
